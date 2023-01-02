@@ -1,0 +1,9 @@
+Dokumentacja aplikacji do słuchania muzyki
+
+Aplikacja ta została napisana w języku JavaScript za pomocą frameworku Electron. Jej głównym zadaniem jest umożliwienie słuchania muzyki z różnych źródeł, w tym automatyczne pobieranie utworów z serwisu YouTube.
+
+Użytkownik ma możliwość dodawania własnych okładek do swoich utworów oraz tworzenia playlist. Wszystkie dane są zapisywane w plikach JSON, dzięki czemu aplikacja jest w stanie zapamiętać preferencje użytkownika i jego bibliotekę muzyczną.
+
+Interfejs aplikacji przypomina popularny serwis streamingowy Spotify, z tą różnicą, że został on zaprojektowany z myślą o elegancji i prostocie. Głównym kolorem jest delikatny, pastelowy odcień niebieskiego, który doskonale komponuje się z ciemną, szarym tłem. Całość jest utrzymana w stylistyce flat design, co sprawia, że aplikacja prezentuje się nowocześnie i estetycznie.
+
+Pomysłami, które mogłyby zostać wprowadzone do aplikacji, są np. opcja synchronizacji z innymi urządzeniami czy też możliwość udostępniania playlist między znajomymi. W przyszłości aplikacja mogłaby również oferować możliwość słuchania radia internetowego czy też dostęp do podcastów.
